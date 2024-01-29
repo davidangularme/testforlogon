@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D9AA527-109A-47A3-98BC-B6926EF3ACC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE4F046A-5DF4-467D-B8B7-7C8FF5AB6D8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64013A3C-3448-4D98-905D-7ABE31F61037"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/CategoryDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchDataForCategory()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64013A3C-3448-4D98-905D-7ABE31F61037 - 6fc7bae1ab250ecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.CategoryDetailsView.fetchDataForCategory() -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/CategoryDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "64013A3C-3448-4D98-905D-7ABE31F61037 - 6fc7bae1ab250ecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.CategoryDetailsView.fetchDataForCategory() -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/CategoryDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B31113C4-4A4F-407C-B894-5B97EA18A296"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B31113C4-4A4F-407C-B894-5B97EA18A296 - 84981118cec826a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "B31113C4-4A4F-407C-B894-5B97EA18A296 - 84981118cec826a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAD35CD0-03C1-4F78-B2A2-B8780B5E3506"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CAD35CD0-03C1-4F78-B2A2-B8780B5E3506 - 84981118cec8268f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "CAD35CD0-03C1-4F78-B2A2-B8780B5E3506 - f2a989daf05439e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (testforlogon.Product) -&gt; Swift.Bool in testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4A11CB0-7C0D-449E-8344-FE39A53DE2CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F4A11CB0-7C0D-449E-8344-FE39A53DE2CF - 84981118cec8394d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "F4A11CB0-7C0D-449E-8344-FE39A53DE2CF - d78a7f48a08d302a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (testforlogon.Product) -&gt; Swift.Int in testforlogon.ProductViewModel.updateCategories(products: Swift.Array&lt;testforlogon.Product&gt;) -&gt; ()"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DAE93F6-FC7C-4F78-8E08-DADBA3F1CEE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DAE93F6-FC7C-4F78-8E08-DADBA3F1CEE4 - 87b39bc6b8ba4d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.init() -&gt; testforlogon.ProductViewModel"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "5DAE93F6-FC7C-4F78-8E08-DADBA3F1CEE4 - 87b39bc6b8ba4d21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testforlogon.ProductViewModel.init() -&gt; testforlogon.ProductViewModel"
+                  moduleName = "testforlogon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidblum/Documents/testforlogon/testforlogon/testforlogon/ProductViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27177A7F-363A-4F8A-A9B4-48181EEE0F61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/ProductViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC31E4A0-0E62-4794-B762-2C7E0C51147A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testforlogon/CategoryDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchDataForCategory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
